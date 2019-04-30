@@ -12,7 +12,6 @@
         layout="@layout/app_bar_layout"
 
         >
-
     </include>
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
